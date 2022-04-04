@@ -1,8 +1,5 @@
 DEFAULT_NAME = "[name]"
 
-# with open("./Input/Names/invited_names.txt", mode="r") as name_invites:
-#     print(f.read)
-
 names_list = open("./Input/Names/invited_names.txt", mode="r")
 
 
